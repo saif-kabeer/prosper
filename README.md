@@ -20,3 +20,6 @@ Deploy `dist/` with any static host. The `.openai/hosting.json` file identifies 
 
 ## GitHub
 Source repository: https://github.com/saif-kabeer/prosper
+
+## Motion
+Native CSS and Web Animations provide staggered headline entrances, scroll reveals, floating portraits, orbiting accents, animated lecture artwork, pointer-responsive cards/buttons, filter transitions and a reading progress line. A persistent Pause motion control and the system reduced-motion preference disable animation. Touch devices omit pointer effects; offscreen decorative animations pause. Content remains visible without JavaScript. No animation dependencies or scroll hijacking.
